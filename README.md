@@ -1,0 +1,1 @@
+Ce programme Python permet de convertir une température entre les échelles Celsius et Fahrenheit. L'utilisateur peut choisir l'option souhaitée via un menu interactif et entrer la température à convertir. Le programme effectue ensuite la conversion et affiche le résultat à l'écran. L'exécution se termine lorsque l'utilisateur choisit de quitter.
